@@ -1,0 +1,66 @@
+{
+    "triage": [
+        {
+            "test": "Login Failure",
+            "passed": false,
+            "score": 0.0,
+            "message": "'dict' object has no attribute 'model_dump'"
+        },
+        {
+            "test": "Billing",
+            "passed": false,
+            "score": 0.0,
+            "message": "'dict' object has no attribute 'model_dump'"
+        },
+        {
+            "test": "Performance",
+            "passed": false,
+            "score": 0.0,
+            "message": "'dict' object has no attribute 'model_dump'"
+        },
+        {
+            "test": "Integration",
+            "passed": false,
+            "score": 0.0,
+            "message": "'dict' object has no attribute 'model_dump'"
+        },
+        {
+            "test": "Adversarial",
+            "passed": false,
+            "score": 0.0,
+            "message": "'dict' object has no attribute 'model_dump'"
+        }
+    ],
+    "tam": [
+        {
+            "test": "ACC-3336",
+            "passed": true,
+            "score": 1.0,
+            "message": "PASS"
+        },
+        {
+            "test": "ACC-8113",
+            "passed": false,
+            "score": 0.0,
+            "message": "FAIL"
+        },
+        {
+            "test": "ACC-4213",
+            "passed": false,
+            "score": 0.0,
+            "message": "FAIL"
+        },
+        {
+            "test": "ACC-7397",
+            "passed": false,
+            "score": 0.0,
+            "message": "FAIL"
+        },
+        {
+            "test": "INVALID_ACCOUNT",
+            "passed": false,
+            "score": 0.0,
+            "message": "FAIL"
+        }
+    ]
+}
